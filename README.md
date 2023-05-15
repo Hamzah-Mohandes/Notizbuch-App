@@ -1,4 +1,33 @@
 # Notizbuch-App
+
+Eine einfache Konsolenanwendung, mit der Benutzer Notizen erstellen, anzeigen und löschen können.
+
+## Funktionalitäten
+
+- Anzeigen von Notizen im Notizbuch
+- Hinzufügen neuer Notizen
+- Löschen von Notizen basierend auf dem Index
+
+## Anleitung
+
+1. Klonen Sie das Repository auf Ihren lokalen Computer.
+2. Öffnen Sie das Projekt in Ihrer bevorzugten Entwicklungsumgebung.
+3. Navigieren Sie zur `Main.kt`-Datei und führen Sie sie aus.
+4. Wählen Sie die entsprechenden Optionen, um die gewünschten Aktionen auszuführen.
+5. Folgen Sie den Anweisungen in der Konsolenausgabe.
+
+## Technologien
+
+- Kotlin
+
+## Autoren
+
+- Vorname Nachname <email@example.com>
+
+## Lizenz
+
+Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
+
 ## Pseudocode
 
 Klasse Note:
